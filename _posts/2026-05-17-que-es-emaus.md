@@ -8,4 +8,4 @@ El retiro de Emaús es una oportunidad para renovar nuestra fe y encontrarnos ca
 
 Es un fin de semana de desconexión del mundo y conexión con el corazón.
 
-![Caminantes de Emaús](https://images.unsplash.com/photo-1504052434569-7c9602df539f?w=500)
+![Caminantes de Emaús](/blog-emaus/foto-emaus.jpg)
